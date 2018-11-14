@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinMessanger</string>
+    <string name="title_activity_latest_messages">LatestMessagesActivity</string>
+</resources>
